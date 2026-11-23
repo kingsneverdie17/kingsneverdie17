@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/mars404.svg" width="100%" alt="Latest hackathon: MARS//404, a Marswalk planner built at NASA Space Apps 2026 as part of a team of 6"/>
+  <a href="https://xand0dev.github.io/mars404/"><img src="./assets/mars404.svg" width="100%" alt="Latest hackathon: MARS//404, a Marswalk planner built at NASA Space Apps 2026 as part of a team of 6"/></a>
 </p>
 
 <p align="center">
@@ -21,6 +21,7 @@
 <p align="center">
   <a href="https://github.com/kingsneverdie17/TeachTool-9661"><b>TeachTool</b></a> ·
   <a href="https://github.com/kingsneverdie17/BMI-project-Flask"><b>BMI Hub</b></a> ·
+  <a href="https://xand0dev.github.io/mars404/"><b>MARS//404 live</b></a> ·
   <a href="mailto:zhill2707@gmail.com">Email</a>
 </p>
 
