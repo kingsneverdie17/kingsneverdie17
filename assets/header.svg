@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="340" viewBox="0 0 850 340"><style>
+.mv{animation:mv linear infinite}@keyframes mv{from{transform:translateX(0)}to{transform:translateX(40px)}}
+.mvr{animation:mvr linear infinite}@keyframes mvr{from{transform:translateX(0)}to{transform:translateX(-40px)}}
+.bob{animation:bob 4s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+.sw{animation:sw 4s ease-in-out infinite;transform-origin:700px 66px}@keyframes sw{0%,100%{transform:rotate(-1.5deg)}50%{transform:rotate(1.5deg)}}
+.bl{animation:bl 1.2s steps(1) infinite}@keyframes bl{50%{opacity:.15}}
+.in{opacity:0;animation:in .6s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style><rect width="850" height="340" fill="#0b0b0b"/><defs><pattern id="hzt" width="40" height="26" patternUnits="userSpaceOnUse" patternTransform="skewX(-35)">
+<rect width="20" height="26" fill="#ffd400"/><rect x="20" width="20" height="26" fill="#0b0b0b"/></pattern>
+<clipPath id="clt"><rect x="0" y="0" width="850" height="26"/></clipPath></defs>
+<g clip-path="url(#clt)"><rect x="-80" y="0" width="1010" height="26" fill="url(#hzt)" class="mv" style="animation-duration:7s"/></g><g stroke="#ffd400" stroke-width="2.5" fill="none" stroke-linejoin="round">
+<path d="M678 310 L678 66 L706 66 L706 310"/><path d="M678 80 L706 108 M706 80 L678 108" stroke-width="1.3"/><path d="M678 108 L706 136 M706 108 L678 136" stroke-width="1.3"/><path d="M678 136 L706 164 M706 136 L678 164" stroke-width="1.3"/><path d="M678 164 L706 192 M706 164 L678 192" stroke-width="1.3"/><path d="M678 192 L706 220 M706 192 L678 220" stroke-width="1.3"/><path d="M678 220 L706 248 M706 220 L678 248" stroke-width="1.3"/><path d="M678 248 L706 276 M706 248 L678 276" stroke-width="1.3"/><path d="M678 276 L706 304 M706 276 L678 304" stroke-width="1.3"/><path d="M580 66 L790 66 M580 52 L790 52 M580 52 L580 66 M790 52 L790 66"/><path d="M580 66 L590.5 52 L601 66" stroke-width="1.3"/><path d="M601 66 L611.5 52 L622 66" stroke-width="1.3"/><path d="M622 66 L632.5 52 L643 66" stroke-width="1.3"/><path d="M643 66 L653.5 52 L664 66" stroke-width="1.3"/><path d="M664 66 L674.5 52 L685 66" stroke-width="1.3"/><path d="M685 66 L695.5 52 L706 66" stroke-width="1.3"/><path d="M706 66 L716.5 52 L727 66" stroke-width="1.3"/><path d="M727 66 L737.5 52 L748 66" stroke-width="1.3"/><path d="M748 66 L758.5 52 L769 66" stroke-width="1.3"/><path d="M769 66 L779.5 52 L790 66" stroke-width="1.3"/><path d="M692 52 L692 34 M692 34 L580 52 M692 34 L790 52" stroke-width="1.5"/>
+<rect x="588" y="68" width="30" height="22" fill="#ffd400" stroke="none"/>
+<path d="M650 310 L740 310" stroke-width="4"/>
+</g>
+<g class="bob"><line x1="770" y1="66" x2="770" y2="188" stroke="#ffd400" stroke-width="1.5"/>
+<path d="M762 188 L778 188 L770 198 Z" fill="#ffd400"/>
+<rect x="730" y="200" width="80" height="54" fill="#ffd400"/>
+<text x="770" y="236" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="24" font-weight="700" fill="#0b0b0b">&lt;/&gt;</text></g>
+<circle cx="692" cy="30" r="4" fill="#ff3b30" class="bl"/>
+<g class="in"><text x="44" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="2" fill="#8a8a80">SITE: KYIV, UA&#160;&#160;·&#160;&#160;REMOTE OK</text></g>
+<g class="in" style="animation-delay:.12s"><text x="40" y="160" font-family="Impact,'Anton','Oswald','Arial Black','Arial Narrow',sans-serif" font-size="78" letter-spacing="1" fill="#ffd400">MAXYM</text>
+<text x="40" y="236" font-family="Impact,'Anton','Oswald','Arial Black','Arial Narrow',sans-serif" font-size="78" letter-spacing="1" fill="#f4f1e6">ZHILENKO</text></g>
+<g class="in" style="animation-delay:.25s"><rect x="44" y="258" width="10" height="10" fill="#ffd400"/>
+<text x="64" y="268" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#f4f1e6">full-stack developer · building things daily</text></g>
+<defs><pattern id="hzb" width="40" height="26" patternUnits="userSpaceOnUse" patternTransform="skewX(-35)">
+<rect width="20" height="26" fill="#ffd400"/><rect x="20" width="20" height="26" fill="#0b0b0b"/></pattern>
+<clipPath id="clb"><rect x="0" y="314" width="850" height="26"/></clipPath></defs>
+<g clip-path="url(#clb)"><rect x="-80" y="314" width="1010" height="26" fill="url(#hzb)" class="mvr" style="animation-duration:7s"/></g></svg>

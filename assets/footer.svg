@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="46" viewBox="0 0 850 46"><style>
+.mv{animation:mv linear infinite}@keyframes mv{from{transform:translateX(0)}to{transform:translateX(40px)}}
+.mvr{animation:mvr linear infinite}@keyframes mvr{from{transform:translateX(0)}to{transform:translateX(-40px)}}
+.bob{animation:bob 4s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+.sw{animation:sw 4s ease-in-out infinite;transform-origin:700px 66px}@keyframes sw{0%,100%{transform:rotate(-1.5deg)}50%{transform:rotate(1.5deg)}}
+.bl{animation:bl 1.2s steps(1) infinite}@keyframes bl{50%{opacity:.15}}
+.in{opacity:0;animation:in .6s ease-out forwards}@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style><rect width="850" height="46" fill="#0b0b0b"/><defs><pattern id="hzf" width="40" height="46" patternUnits="userSpaceOnUse" patternTransform="skewX(-35)">
+<rect width="20" height="46" fill="#ffd400"/><rect x="20" width="20" height="46" fill="#0b0b0b"/></pattern>
+<clipPath id="clf"><rect x="0" y="0" width="850" height="46"/></clipPath></defs>
+<g clip-path="url(#clf)"><rect x="-80" y="0" width="1010" height="46" fill="url(#hzf)" class="mv" style="animation-duration:9s"/></g><rect x="252" y="12" width="347" height="22" fill="#0b0b0b"/><text x="425" y="27.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700" letter-spacing="1" fill="#ffd400">OPEN TO JUNIOR ROLES · REMOTE OR KYIV</text></svg>
